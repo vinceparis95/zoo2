@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainingData</folder>
+	<filename>c147.jpg</filename>
+	<path>/home/vince/garden/datasets/cucumbersB/trainingData/c147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lil_plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>680</ymin>
+			<xmax>3726</xmax>
+			<ymax>2980</ymax>
+		</bndbox>
+	</object>
+</annotation>
