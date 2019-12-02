@@ -1,0 +1,9 @@
+cup
+seed
+sprout
+seedling
+lil_plant
+raised_bed
+good_lawn
+rough_lawn
+trash

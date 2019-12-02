@@ -1,0 +1,6 @@
+raised_bed
+tree
+fence
+good_lawn
+rough_lawn
+trash
